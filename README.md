@@ -1,4 +1,4 @@
-# Semantic Search Research PDF
+# Semantic Search Within Research PDF
 
 # Product Goal
 As undergraduate students in computer science and engineering, we often find ourselves tediously scanning scholary articles. To streamline this process, we decided to use Cohere's NLP API to help us find what we are searching for.
